@@ -1,6 +1,8 @@
 # ppml
 Poisson Pseudo Maximum Likelihood (PPML) Use ppml In (With) R Software
 
+https://www.youtube.com/watch?v=Z_Q3-v7Wr7w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
